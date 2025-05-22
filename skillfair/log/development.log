@@ -1,0 +1,500 @@
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked hosts: 015011b04a84464f913fe4e855738ad6.vfs.cloud9.us-east-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked hosts: 015011b04a84464f913fe4e855738ad6.vfs.cloud9.us-east-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked hosts: 015011b04a84464f913fe4e855738ad6.vfs.cloud9.us-east-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked hosts: 015011b04a84464f913fe4e855738ad6.vfs.cloud9.us-east-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked hosts: 015011b04a84464f913fe4e855738ad6.vfs.cloud9.us-east-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked hosts: 015011b04a84464f913fe4e855738ad6.vfs.cloud9.us-east-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked hosts: 015011b04a84464f913fe4e855738ad6.vfs.cloud9.us-east-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked hosts: 015011b04a84464f913fe4e855738ad6.vfs.cloud9.us-east-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked hosts: 015011b04a84464f913fe4e855738ad6.vfs.cloud9.us-east-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked hosts: 015011b04a84464f913fe4e855738ad6.vfs.cloud9.us-east-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked hosts: 015011b04a84464f913fe4e855738ad6.vfs.cloud9.us-east-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked hosts: 015011b04a84464f913fe4e855738ad6.vfs.cloud9.us-east-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked hosts: 015011b04a84464f913fe4e855738ad6.vfs.cloud9.us-east-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked hosts: 015011b04a84464f913fe4e855738ad6.vfs.cloud9.us-east-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked hosts: 015011b04a84464f913fe4e855738ad6.vfs.cloud9.us-east-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked hosts: 015011b04a84464f913fe4e855738ad6.vfs.cloud9.us-east-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked hosts: 015011b04a84464f913fe4e855738ad6.vfs.cloud9.us-east-1.amazonaws.com
+Started GET "/" for 146.111.194.27 at 2025-05-22 20:43:33 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (2.4ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY) /*application='Skillfair'*/[0m
+  [1m[35m (0.3ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime(6) NOT NULL, "updated_at" datetime(6) NOT NULL) /*application='Skillfair'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='Skillfair'*/[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.local/share/gem/ruby/gems/railties-8.0.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.local/share/gem/ruby/gems/railties-8.0.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.3ms | GC: 0.0ms)
+Completed 200 OK in 42ms (Views: 4.9ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/" for 146.111.194.27 at 2025-05-22 20:44:52 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.local/share/gem/ruby/gems/railties-8.0.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.local/share/gem/ruby/gems/railties-8.0.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.7ms | GC: 0.0ms)
+Completed 200 OK in 18ms (Views: 4.8ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/" for 146.111.194.27 at 2025-05-22 20:44:55 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.local/share/gem/ruby/gems/railties-8.0.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.local/share/gem/ruby/gems/railties-8.0.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.3ms | GC: 0.0ms)
+Completed 200 OK in 8ms (Views: 0.7ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/" for 146.111.194.27 at 2025-05-22 20:44:56 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.local/share/gem/ruby/gems/railties-8.0.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.local/share/gem/ruby/gems/railties-8.0.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.3ms | GC: 0.0ms)
+Completed 200 OK in 9ms (Views: 0.8ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/" for 146.111.194.27 at 2025-05-22 20:44:56 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.local/share/gem/ruby/gems/railties-8.0.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.local/share/gem/ruby/gems/railties-8.0.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.2ms | GC: 0.0ms)
+Completed 200 OK in 13ms (Views: 0.7ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/" for 146.111.194.27 at 2025-05-22 20:44:56 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.local/share/gem/ruby/gems/railties-8.0.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.local/share/gem/ruby/gems/railties-8.0.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.4ms | GC: 0.0ms)
+Completed 200 OK in 10ms (Views: 0.8ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/welcome/index" for 146.111.194.27 at 2025-05-22 20:45:16 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by WelcomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (Duration: 1.6ms | GC: 0.8ms)
+  Rendered layout layouts/application.html.erb (Duration: 20.5ms | GC: 1.7ms)
+Completed 200 OK in 59ms (Views: 22.3ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 3.0ms)
+
+
+Started GET "/assets/application-8b441ae0.css" for 146.111.194.27 at 2025-05-22 20:45:17 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started GET "/welcome/main.css" for 146.111.194.27 at 2025-05-22 20:45:17 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [GET] "/welcome/main.css"):
+  
+Started GET "/assets/application-bfcdf840.js" for 146.111.194.27 at 2025-05-22 20:45:17 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started GET "/assets/turbo.min-1262d735.js" for 146.111.194.27 at 2025-05-22 20:45:17 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started GET "/assets/stimulus.min-4b1e420e.js" for 146.111.194.27 at 2025-05-22 20:45:17 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started GET "/assets/stimulus-loading-1fc53fe7.js" for 146.111.194.27 at 2025-05-22 20:45:17 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started GET "/assets/controllers/hello_controller-708796bd.js" for 146.111.194.27 at 2025-05-22 20:45:17 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started GET "/assets/controllers/application-3affb389.js" for 146.111.194.27 at 2025-05-22 20:45:17 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started GET "/assets/controllers/index-ee64e1f1.js" for 146.111.194.27 at 2025-05-22 20:45:17 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started GET "/welcome/index" for 146.111.194.27 at 2025-05-22 20:46:30 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by WelcomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (Duration: 0.3ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 2.9ms | GC: 0.0ms)
+Completed 200 OK in 16ms (Views: 3.4ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 1.5ms)
+
+
+Started GET "/assets/main-e8dc057d.css" for 146.111.194.27 at 2025-05-22 20:46:30 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started GET "/welcome/main.css" for 146.111.194.27 at 2025-05-22 20:46:30 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [GET] "/welcome/main.css"):
+  
+Started GET "/welcome/index" for 146.111.194.27 at 2025-05-22 20:46:34 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by WelcomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.9ms | GC: 0.0ms)
+Completed 200 OK in 13ms (Views: 2.4ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/assets/main-b762ae41.css" for 146.111.194.27 at 2025-05-22 20:46:34 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started GET "/welcome/main.css" for 146.111.194.27 at 2025-05-22 20:46:34 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [GET] "/welcome/main.css"):
+  
+Started GET "/welcome/index" for 146.111.194.27 at 2025-05-22 20:50:17 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by WelcomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (Duration: 0.6ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 5.2ms | GC: 0.2ms)
+Completed 200 OK in 16ms (Views: 6.9ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.2ms)
+
+
+Started GET "/welcome/main.css" for 146.111.194.27 at 2025-05-22 20:50:18 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [GET] "/welcome/main.css"):
+  
+  [1m[36mActiveRecord::InternalMetadata Load (0.2ms)[0m  [1m[34mSELECT * FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = 'environment' ORDER BY "ar_internal_metadata"."key" ASC LIMIT 1 /*application='Skillfair'*/[0m
+  [1m[36mActiveRecord::InternalMetadata Create (2.7ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES ('environment', 'development', '2025-05-22 20:55:29.334491', '2025-05-22 20:55:29.334497') RETURNING "key" /*application='Skillfair'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='Skillfair'*/[0m
+Migrating to CreateProducts (20250522205510)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Skillfair'*/[0m
+  [1m[35m (2.2ms)[0m  [1m[35mCREATE TABLE "products" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "category" varchar, "image_url" varchar, "description" text, "price" decimal, "featured" boolean, "created_at" datetime(6) NOT NULL, "updated_at" datetime(6) NOT NULL) /*application='Skillfair'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20250522205510') RETURNING "version" /*application='Skillfair'*/[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Skillfair'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='Skillfair'*/[0m
+Started GET "/products/new" for 146.111.194.27 at 2025-05-22 20:56:59 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='Skillfair'*/[0m
+Processing by ProductsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering products/new.html.erb within layouts/application
+  Rendered products/_form.html.erb (Duration: 20.4ms | GC: 1.1ms)
+  Rendered products/new.html.erb within layouts/application (Duration: 22.2ms | GC: 1.1ms)
+  Rendered layout layouts/application.html.erb (Duration: 34.1ms | GC: 2.1ms)
+Completed 200 OK in 132ms (Views: 38.6ms | ActiveRecord: 6.1ms (0 queries, 0 cached) | GC: 6.7ms)
+
+
+Started GET "/products" for 146.111.194.27 at 2025-05-22 20:57:02 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ProductsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering products/index.html.erb within layouts/application
+  [1m[36mProduct Load (0.3ms)[0m  [1m[34mSELECT "products".* FROM "products" /*action='index',application='Skillfair',controller='products'*/[0m
+  ↳ app/views/products/index.html.erb:8
+  Rendered products/index.html.erb within layouts/application (Duration: 8.9ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 10.0ms | GC: 0.0ms)
+Completed 200 OK in 121ms (Views: 10.4ms | ActiveRecord: 0.3ms (1 query, 0 cached) | GC: 0.6ms)
+
+
+Started GET "/products/new" for 146.111.194.27 at 2025-05-22 20:57:03 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ProductsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering products/new.html.erb within layouts/application
+  Rendered products/_form.html.erb (Duration: 3.1ms | GC: 0.0ms)
+  Rendered products/new.html.erb within layouts/application (Duration: 3.8ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 7.6ms | GC: 0.8ms)
+Completed 200 OK in 20ms (Views: 9.2ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.8ms)
+
+
+Started GET "/products" for 146.111.194.27 at 2025-05-22 20:57:04 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ProductsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering products/index.html.erb within layouts/application
+  [1m[36mProduct Load (0.1ms)[0m  [1m[34mSELECT "products".* FROM "products" /*action='index',application='Skillfair',controller='products'*/[0m
+  ↳ app/views/products/index.html.erb:8
+  Rendered products/index.html.erb within layouts/application (Duration: 1.7ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 2.5ms | GC: 0.0ms)
+Completed 200 OK in 12ms (Views: 2.7ms | ActiveRecord: 0.1ms (1 query, 0 cached) | GC: 0.9ms)
+
+
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='Skillfair'*/[0m
+Started GET "/products" for 146.111.194.27 at 2025-05-22 21:04:13 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='Skillfair'*/[0m
+Processing by ProductsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering products/index.html.erb within layouts/application
+  [1m[36mProduct Load (1.2ms)[0m  [1m[34mSELECT "products".* FROM "products" /*action='index',application='Skillfair',controller='products'*/[0m
+  ↳ app/views/products/index.html.erb:8
+  Rendered products/index.html.erb within layouts/application (Duration: 10.4ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 20.8ms | GC: 0.0ms)
+Completed 200 OK in 58ms (Views: 22.0ms | ActiveRecord: 1.6ms (1 query, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/products/new" for 146.111.194.27 at 2025-05-22 21:04:14 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ProductsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering products/new.html.erb within layouts/application
+  Rendered products/_form.html.erb (Duration: 7.9ms | GC: 0.3ms)
+  Rendered products/new.html.erb within layouts/application (Duration: 9.4ms | GC: 0.3ms)
+  Rendered layout layouts/application.html.erb (Duration: 10.4ms | GC: 0.3ms)
+Completed 200 OK in 30ms (Views: 10.9ms | ActiveRecord: 0.6ms (0 queries, 0 cached) | GC: 2.0ms)
+
+
+Started GET "/products" for 146.111.194.27 at 2025-05-22 21:04:16 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ProductsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering products/index.html.erb within layouts/application
+  [1m[36mProduct Load (0.2ms)[0m  [1m[34mSELECT "products".* FROM "products" /*action='index',application='Skillfair',controller='products'*/[0m
+  ↳ app/views/products/index.html.erb:8
+  Rendered products/index.html.erb within layouts/application (Duration: 2.5ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 3.6ms | GC: 0.0ms)
+Completed 200 OK in 14ms (Views: 3.9ms | ActiveRecord: 0.2ms (1 query, 0 cached) | GC: 0.0ms)
+
+
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='Skillfair'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Skillfair'*/[0m
+  [1m[36mProduct Create (2.0ms)[0m  [1m[32mINSERT INTO "products" ("name", "category", "image_url", "description", "price", "featured", "created_at", "updated_at") VALUES ('Kitchen Item', 'kitchen', 'https://content.codecademy.com/projects/make-a-website/lesson-4/kitchen.jpg', 'Handcrafted kitchen item', 29.99, 1, '2025-05-22 21:04:34.416129', '2025-05-22 21:04:34.416129') RETURNING "id" /*application='Skillfair'*/[0m
+  [1m[36mTRANSACTION (3.4ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Skillfair'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Skillfair'*/[0m
+  [1m[36mProduct Create (2.0ms)[0m  [1m[32mINSERT INTO "products" ("name", "category", "image_url", "description", "price", "featured", "created_at", "updated_at") VALUES ('Woodwork Item', 'woodwork', 'https://content.codecademy.com/projects/make-a-website/lesson-4/woodwork.jpg', 'Handcrafted woodwork item', 39.99, 0, '2025-05-22 21:04:34.426850', '2025-05-22 21:04:34.426850') RETURNING "id" /*application='Skillfair'*/[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Skillfair'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Skillfair'*/[0m
+  [1m[36mProduct Create (2.2ms)[0m  [1m[32mINSERT INTO "products" ("name", "category", "image_url", "description", "price", "featured", "created_at", "updated_at") VALUES ('Gift Item', 'gifts', 'https://content.codecademy.com/projects/make-a-website/lesson-4/gifts.jpg', 'Handcrafted gift item', 19.99, 0, '2025-05-22 21:04:34.433341', '2025-05-22 21:04:34.433341') RETURNING "id" /*application='Skillfair'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Skillfair'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Skillfair'*/[0m
+  [1m[36mProduct Create (2.1ms)[0m  [1m[32mINSERT INTO "products" ("name", "category", "image_url", "description", "price", "featured", "created_at", "updated_at") VALUES ('Antique Item', 'antiques', 'https://content.codecademy.com/projects/make-a-website/lesson-4/antique.jpg', 'Vintage antique item', 99.99, 1, '2025-05-22 21:04:34.453572', '2025-05-22 21:04:34.453572') RETURNING "id" /*application='Skillfair'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Skillfair'*/[0m
+Started GET "/products" for 146.111.194.27 at 2025-05-22 21:04:38 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='Skillfair'*/[0m
+Processing by ProductsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering products/index.html.erb within layouts/application
+  [1m[36mProduct Load (1.2ms)[0m  [1m[34mSELECT "products".* FROM "products" /*action='index',application='Skillfair',controller='products'*/[0m
+  ↳ app/views/products/index.html.erb:8
+  Rendered products/_product.html.erb (Duration: 0.9ms | GC: 0.0ms)
+  Rendered products/_product.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered products/_product.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered products/_product.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered products/index.html.erb within layouts/application (Duration: 23.9ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 51.0ms | GC: 17.9ms)
+Completed 200 OK in 86ms (Views: 51.4ms | ActiveRecord: 2.4ms (1 query, 0 cached) | GC: 17.9ms)
+
+
+Started GET "/products" for 146.111.194.27 at 2025-05-22 21:07:42 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ProductsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering products/index.html.erb within layouts/application
+  [1m[36mProduct Load (0.3ms)[0m  [1m[34mSELECT "products".* FROM "products" /*action='index',application='Skillfair',controller='products'*/[0m
+  ↳ app/views/products/index.html.erb:8
+  Rendered products/_product.html.erb (Duration: 0.2ms | GC: 0.0ms)
+  Rendered products/_product.html.erb (Duration: 0.2ms | GC: 0.0ms)
+  Rendered products/_product.html.erb (Duration: 0.7ms | GC: 0.5ms)
+  Rendered products/_product.html.erb (Duration: 1.1ms | GC: 0.0ms)
+  Rendered products/index.html.erb within layouts/application (Duration: 7.8ms | GC: 0.5ms)
+  Rendered layout layouts/application.html.erb (Duration: 9.4ms | GC: 0.5ms)
+Completed 200 OK in 20ms (Views: 9.5ms | ActiveRecord: 0.3ms (1 query, 0 cached) | GC: 0.5ms)
+
+
+Started GET "/products/4" for 146.111.194.27 at 2025-05-22 21:07:43 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ProductsController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mProduct Load (0.2ms)[0m  [1m[34mSELECT "products".* FROM "products" WHERE "products"."id" = 4 LIMIT 1 /*action='show',application='Skillfair',controller='products'*/[0m
+  ↳ app/controllers/products_controller.rb:63:in `set_product'
+  Rendering layout layouts/application.html.erb
+  Rendering products/show.html.erb within layouts/application
+  Rendered products/_product.html.erb (Duration: 0.2ms | GC: 0.0ms)
+  Rendered products/show.html.erb within layouts/application (Duration: 2.2ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 3.7ms | GC: 0.0ms)
+Completed 200 OK in 27ms (Views: 4.2ms | ActiveRecord: 0.1ms (1 query, 0 cached) | GC: 1.7ms)
+
+
+Started GET "/products/4/edit" for 146.111.194.27 at 2025-05-22 21:07:45 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ProductsController#edit as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mProduct Load (0.2ms)[0m  [1m[34mSELECT "products".* FROM "products" WHERE "products"."id" = 4 LIMIT 1 /*action='edit',application='Skillfair',controller='products'*/[0m
+  ↳ app/controllers/products_controller.rb:63:in `set_product'
+  Rendering layout layouts/application.html.erb
+  Rendering products/edit.html.erb within layouts/application
+  Rendered products/_form.html.erb (Duration: 6.7ms | GC: 0.4ms)
+  Rendered products/edit.html.erb within layouts/application (Duration: 7.8ms | GC: 0.4ms)
+  Rendered layout layouts/application.html.erb (Duration: 9.3ms | GC: 0.7ms)
+Completed 200 OK in 20ms (Views: 9.8ms | ActiveRecord: 0.2ms (1 query, 0 cached) | GC: 0.7ms)
+
+
+Started GET "/products" for 146.111.194.27 at 2025-05-22 21:07:46 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ProductsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering products/index.html.erb within layouts/application
+  [1m[36mProduct Load (0.2ms)[0m  [1m[34mSELECT "products".* FROM "products" /*action='index',application='Skillfair',controller='products'*/[0m
+  ↳ app/views/products/index.html.erb:8
+  Rendered products/_product.html.erb (Duration: 0.3ms | GC: 0.0ms)
+  Rendered products/_product.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered products/_product.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered products/_product.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered products/index.html.erb within layouts/application (Duration: 5.4ms | GC: 0.5ms)
+  Rendered layout layouts/application.html.erb (Duration: 6.7ms | GC: 0.5ms)
+Completed 200 OK in 16ms (Views: 6.9ms | ActiveRecord: 0.2ms (1 query, 0 cached) | GC: 0.5ms)
+
+
+Started GET "/products/1" for 146.111.194.27 at 2025-05-22 21:08:14 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ProductsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mProduct Load (0.2ms)[0m  [1m[34mSELECT "products".* FROM "products" WHERE "products"."id" = 1 LIMIT 1 /*action='show',application='Skillfair',controller='products'*/[0m
+  ↳ app/controllers/products_controller.rb:63:in `set_product'
+  Rendering layout layouts/application.html.erb
+  Rendering products/show.html.erb within layouts/application
+  Rendered products/_product.html.erb (Duration: 0.2ms | GC: 0.0ms)
+  Rendered products/show.html.erb within layouts/application (Duration: 2.4ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 3.6ms | GC: 0.0ms)
+Completed 200 OK in 20ms (Views: 4.6ms | ActiveRecord: 0.2ms (1 query, 0 cached) | GC: 0.4ms)
+
+
+Started DELETE "/products/1" for 146.111.194.27 at 2025-05-22 21:08:16 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ProductsController#destroy as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "id"=>"1"}
+  [1m[36mProduct Load (0.2ms)[0m  [1m[34mSELECT "products".* FROM "products" WHERE "products"."id" = 1 LIMIT 1 /*action='destroy',application='Skillfair',controller='products'*/[0m
+  ↳ app/controllers/products_controller.rb:63:in `set_product'
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*action='destroy',application='Skillfair',controller='products'*/[0m
+  ↳ app/controllers/products_controller.rb:52:in `destroy'
+  [1m[36mProduct Destroy (17.3ms)[0m  [1m[31mDELETE FROM "products" WHERE "products"."id" = 1 /*action='destroy',application='Skillfair',controller='products'*/[0m
+  ↳ app/controllers/products_controller.rb:52:in `destroy'
+  [1m[36mTRANSACTION (5.2ms)[0m  [1m[35mCOMMIT TRANSACTION /*action='destroy',application='Skillfair',controller='products'*/[0m
+  ↳ app/controllers/products_controller.rb:52:in `destroy'
+Redirected to https://015011b04a84464f913fe4e855738ad6.vfs.cloud9.us-east-1.amazonaws.com/products
+Completed 303 See Other in 115ms (ActiveRecord: 22.7ms (2 queries, 0 cached) | GC: 61.7ms)
+
+
+Started GET "/products" for 146.111.194.27 at 2025-05-22 21:08:16 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ProductsController#index as TURBO_STREAM
+  Rendering layout layouts/application.html.erb
+  Rendering products/index.html.erb within layouts/application
+  [1m[36mProduct Load (0.2ms)[0m  [1m[34mSELECT "products".* FROM "products" /*action='index',application='Skillfair',controller='products'*/[0m
+  ↳ app/views/products/index.html.erb:8
+  Rendered products/_product.html.erb (Duration: 0.2ms | GC: 0.0ms)
+  Rendered products/_product.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered products/_product.html.erb (Duration: 0.2ms | GC: 0.0ms)
+  Rendered products/index.html.erb within layouts/application (Duration: 5.8ms | GC: 0.7ms)
+  Rendered layout layouts/application.html.erb (Duration: 7.3ms | GC: 0.7ms)
+Completed 200 OK in 21ms (Views: 7.7ms | ActiveRecord: 0.2ms (1 query, 0 cached) | GC: 0.7ms)
+
+
+Started GET "/products" for 146.111.194.27 at 2025-05-22 21:08:19 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ProductsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering products/index.html.erb within layouts/application
+  [1m[36mProduct Load (0.2ms)[0m  [1m[34mSELECT "products".* FROM "products" /*action='index',application='Skillfair',controller='products'*/[0m
+  ↳ app/views/products/index.html.erb:8
+  Rendered products/_product.html.erb (Duration: 0.2ms | GC: 0.0ms)
+  Rendered products/_product.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered products/_product.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered products/index.html.erb within layouts/application (Duration: 3.8ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 4.9ms | GC: 0.0ms)
+Completed 200 OK in 16ms (Views: 5.2ms | ActiveRecord: 0.2ms (1 query, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/products" for 146.111.194.27 at 2025-05-22 21:09:54 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ProductsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering products/index.html.erb within layouts/application
+  [1m[36mProduct Load (0.2ms)[0m  [1m[34mSELECT "products".* FROM "products" /*action='index',application='Skillfair',controller='products'*/[0m
+  ↳ app/views/products/index.html.erb:8
+  Rendered products/_product.html.erb (Duration: 0.2ms | GC: 0.0ms)
+  Rendered products/_product.html.erb (Duration: 0.2ms | GC: 0.0ms)
+  Rendered products/_product.html.erb (Duration: 0.7ms | GC: 0.0ms)
+  Rendered products/index.html.erb within layouts/application (Duration: 4.9ms | GC: 0.3ms)
+  Rendered layout layouts/application.html.erb (Duration: 6.5ms | GC: 0.3ms)
+Completed 200 OK in 19ms (Views: 8.2ms | ActiveRecord: 0.2ms (1 query, 0 cached) | GC: 0.3ms)
+
+
+Started GET "/products" for 146.111.194.27 at 2025-05-22 21:09:58 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ProductsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering products/index.html.erb within layouts/application
+  [1m[36mProduct Load (1.1ms)[0m  [1m[34mSELECT "products".* FROM "products" /*action='index',application='Skillfair',controller='products'*/[0m
+  ↳ app/views/products/index.html.erb:68
+  Rendered products/_product.html.erb (Duration: 0.6ms | GC: 0.0ms)
+  Rendered products/_product.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered products/_product.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered products/index.html.erb within layouts/application (Duration: 13.8ms | GC: 0.3ms)
+  Rendered layout layouts/application.html.erb (Duration: 17.7ms | GC: 1.2ms)
+Completed 200 OK in 32ms (Views: 18.8ms | ActiveRecord: 1.8ms (1 query, 0 cached) | GC: 1.2ms)
+
+
+Started GET "/products/4" for 146.111.194.27 at 2025-05-22 21:13:05 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ProductsController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mProduct Load (0.2ms)[0m  [1m[34mSELECT "products".* FROM "products" WHERE "products"."id" = 4 LIMIT 1 /*action='show',application='Skillfair',controller='products'*/[0m
+  ↳ app/controllers/products_controller.rb:63:in `set_product'
+  Rendering layout layouts/application.html.erb
+  Rendering products/show.html.erb within layouts/application
+  Rendered products/_product.html.erb (Duration: 0.2ms | GC: 0.0ms)
+  Rendered products/show.html.erb within layouts/application (Duration: 5.8ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 6.9ms | GC: 0.0ms)
+Completed 200 OK in 25ms (Views: 7.5ms | ActiveRecord: 0.2ms (1 query, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/products/new" for 146.111.194.27 at 2025-05-22 21:13:05 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ProductsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering products/new.html.erb within layouts/application
+  Rendered products/_form.html.erb (Duration: 4.4ms | GC: 0.0ms)
+  Rendered products/new.html.erb within layouts/application (Duration: 5.5ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 6.7ms | GC: 0.0ms)
+Completed 200 OK in 17ms (Views: 7.4ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started POST "/products" for 146.111.194.27 at 2025-05-22 21:13:23 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ProductsController#create as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "product"=>{"name"=>"Wallpaper", "category"=>"Art", "image_url"=>"https://www.google.com/url?sa=i&url=https%3A%2F%2Famateurphotographer.com%2Flatest%2Fphoto-news%2Fworlds-viewed-picture-bliss%2F&psig=AOvVaw2JaQePBFnvZnJ3v1d9SuPi&ust=1748034709409000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMD2mPT-t40DFQAAAAAdAAAAABAE", "description"=>"", "price"=>"5.00", "featured"=>"0"}, "commit"=>"Create Product"}
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*action='create',application='Skillfair',controller='products'*/[0m
+  ↳ app/controllers/products_controller.rb:27:in `block in create'
+  [1m[36mProduct Create (2.9ms)[0m  [1m[32mINSERT INTO "products" ("name", "category", "image_url", "description", "price", "featured", "created_at", "updated_at") VALUES ('Wallpaper', 'Art', 'https://www.google.com/url?sa=i&url=https%3A%2F%2Famateurphotographer.com%2Flatest%2Fphoto-news%2Fworlds-viewed-picture-bliss%2F&psig=AOvVaw2JaQePBFnvZnJ3v1d9SuPi&ust=1748034709409000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMD2mPT-t40DFQAAAAAdAAAAABAE', '', 5.0, 0, '2025-05-22 21:13:23.502343', '2025-05-22 21:13:23.502343') RETURNING "id" /*action='create',application='Skillfair',controller='products'*/[0m
+  ↳ app/controllers/products_controller.rb:27:in `block in create'
+  [1m[36mTRANSACTION (2.5ms)[0m  [1m[35mCOMMIT TRANSACTION /*action='create',application='Skillfair',controller='products'*/[0m
+  ↳ app/controllers/products_controller.rb:27:in `block in create'
+Redirected to https://015011b04a84464f913fe4e855738ad6.vfs.cloud9.us-east-1.amazonaws.com/products/5
+Completed 302 Found in 25ms (ActiveRecord: 5.5ms (1 query, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/products/5" for 146.111.194.27 at 2025-05-22 21:13:23 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ProductsController#show as TURBO_STREAM
+  Parameters: {"id"=>"5"}
+  [1m[36mProduct Load (0.2ms)[0m  [1m[34mSELECT "products".* FROM "products" WHERE "products"."id" = 5 LIMIT 1 /*action='show',application='Skillfair',controller='products'*/[0m
+  ↳ app/controllers/products_controller.rb:63:in `set_product'
+  Rendering layout layouts/application.html.erb
+  Rendering products/show.html.erb within layouts/application
+  Rendered products/_product.html.erb (Duration: 0.2ms | GC: 0.0ms)
+  Rendered products/show.html.erb within layouts/application (Duration: 2.8ms | GC: 0.6ms)
+  Rendered layout layouts/application.html.erb (Duration: 3.8ms | GC: 0.6ms)
+Completed 200 OK in 17ms (Views: 4.4ms | ActiveRecord: 0.1ms (1 query, 0 cached) | GC: 0.6ms)
+
+
+Started GET "/products" for 146.111.194.27 at 2025-05-22 21:13:26 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ProductsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering products/index.html.erb within layouts/application
+  [1m[36mProduct Load (0.2ms)[0m  [1m[34mSELECT "products".* FROM "products" /*action='index',application='Skillfair',controller='products'*/[0m
+  ↳ app/views/products/index.html.erb:68
+  Rendered products/_product.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered products/_product.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered products/_product.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered products/_product.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered products/index.html.erb within layouts/application (Duration: 4.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 5.2ms | GC: 0.0ms)
+Completed 200 OK in 15ms (Views: 5.4ms | ActiveRecord: 0.2ms (1 query, 0 cached) | GC: 0.5ms)
+
+
+Started GET "/products" for 146.111.194.27 at 2025-05-22 21:14:08 +0000
+Cannot render console from 146.111.194.27! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ProductsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering products/index.html.erb within layouts/application
+  Rendered products/index.html.erb within layouts/application (Duration: 2.8ms | GC: 0.3ms)
+  Rendered layout layouts/application.html.erb (Duration: 8.8ms | GC: 0.3ms)
+Completed 200 OK in 26ms (Views: 11.9ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.3ms)
+
+
